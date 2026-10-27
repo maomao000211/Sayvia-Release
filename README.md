@@ -90,23 +90,9 @@ If you encounter any issues or have questions:
 - Open an issue on [GitHub](https://github.com/maomao000211/TalkBridge-Release/issues)
 - Email: maoglobal.211@gmail.com
 
-## Version History
-
-### v1.0.1 (2026-05-11)
-- Fixed accessibility permission persistence issue
-- Improved text selection reliability in WhatsApp and other apps
-- Added Developer ID signing and notarization
-- Enhanced privacy information in About page
-
-### v1.0.0 (2026-05-10)
-- Initial release
-- Core translation functionality
-- Multi-tier text selection strategy
-- Menu bar interface
-
 ## License
 
-Copyright © 2024 TalkBridge. All rights reserved.
+Copyright © 2026 Sayvia. All rights reserved.
 
 ---
 
