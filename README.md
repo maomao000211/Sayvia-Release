@@ -1,4 +1,4 @@
-# TalkBridge
+# Sayvia
 
 A powerful macOS translation tool that allows you to translate selected text instantly with keyboard shortcuts.
 
@@ -17,9 +17,9 @@ A powerful macOS translation tool that allows you to translate selected text ins
 
 ## Installation
 
-1. Download the latest `TalkBridge-x.x.x.dmg` from [Releases](https://github.com/maomao000211/TalkBridge-Release/releases)
+1. Download the latest `Sayvia-x.x.x.dmg` from [Releases](https://github.com/maomao000211/TalkBridge-Release/releases)
 2. Open the DMG file
-3. Drag TalkBridge to the Applications folder
+3. Drag Sayvia to the Applications folder
 4. Launch TalkBridge from Applications
 5. Grant required permissions when prompted:
    - **Accessibility**: Required to read selected text from other apps
@@ -35,7 +35,7 @@ A powerful macOS translation tool that allows you to translate selected text ins
 
 ### First Time Setup
 
-1. Launch TalkBridge - it will appear in your menu bar
+1. Launch Sayvia - it will appear in your menu bar
 2. Click the menu bar icon and select "Settings"
 3. Configure your preferred translation settings
 4. Grant permissions when prompted
@@ -49,13 +49,13 @@ A powerful macOS translation tool that allows you to translate selected text ins
 ## Permissions Explained
 
 ### Accessibility Permission
-TalkBridge needs accessibility permission to read selected text from other applications. This is the core functionality that enables instant translation.
+Sayvia needs accessibility permission to read selected text from other applications. This is the core functionality that enables instant translation.
 
 **What we access**: Only the text you have selected
 **What we don't access**: Passwords, system data, or any other content
 
 ### Automation Permission
-TalkBridge uses automation to simulate the Cmd+C keyboard shortcut as a fallback method when direct text selection is not available.
+Sayvia uses automation to simulate the Cmd+C keyboard shortcut as a fallback method when direct text selection is not available.
 
 **What we do**: Simulate Cmd+C to copy selected text
 **What we don't do**: Control other apps or execute commands
